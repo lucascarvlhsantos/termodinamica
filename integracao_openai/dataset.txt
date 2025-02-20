@@ -1,0 +1,308 @@
+                                                                p: 12.00
+Setpoint: 24.00
+Última temperatura: 15.81
+Último tempo: 10.51
+Último PWM: 95.00
+Sucesso: Não
+Contador de dados: 1
+Kp: 12.00
+Setpoint: 24.00
+Última temperatura: 14.00
+Último tempo: 21.13
+Último PWM: 95.00
+Sucesso: Não
+Contador de dados: 2
+Kp: 12.00
+Setpoint: 24.00
+Última temperatura: 14.13
+Último tempo: 31.76
+Último PWM: 95.00
+Sucesso: Não
+Contador de dados: 3
+Kp: 12.00
+Setpoint: 24.00
+Última temperatura: 14.13
+Último tempo: 42.39
+Último PWM: 95.00
+Sucesso: Não
+Contador de dados: 4
+Kp: 12.00
+Setpoint: 24.00
+Última temperatura: 14.19
+Último tempo: 53.02
+Último PWM: 95.00
+Sucesso: Não
+Contador de dados: 5
+Kp: 9.00
+Setpoint: 22.00
+Última temperatura: 14.25
+Último tempo: 10.51
+Último PWM: 95.00
+Sucesso: Não
+Contador de dados: 1
+Kp: 9.00
+Setpoint: 22.00
+Última temperatura: 14.25
+Último tempo: 10.51
+Último PWM: 95.00
+Sucesso: Não
+Contador de dados: 1
+Kp: 9.00
+Setpoint: 22.00
+Última temperatura: 14.31
+Último tempo: 21.13
+Último PWM: 95.00
+Sucesso: Não
+Contador de dados: 2
+Kp: 9.00
+Setpoint: 22.00
+Última temperatura: 14.38
+Último tempo: 31.76
+Último PWM: 95.00
+Sucesso: Não
+Contador de dados: 3
+Kp: 9.00
+Setpoint: 22.00
+Última temperatura: 14.31
+Último tempo: 42.39
+Último PWM: 95.00
+Sucesso: Não
+Contador de dados: 4
+Kp: 9.00
+Setpoint: 22.00
+Última temperatura: 14.31
+Último tempo: 53.02
+Último PWM: 95.00
+Sucesso: Não
+Contador de dados: 5
+Kp: 12.00
+Setpoint: 19.00
+Última temperatura: 14.31
+Último tempo: 10.50
+Último PWM: 103.75
+Sucesso: Não
+Contador de dados: 1
+Kp: 12.00
+Setpoint: 19.00
+Última temperatura: 14.31
+Último tempo: 21.13
+Último PWM: 103.75
+Sucesso: Não
+Contador de dados: 2
+Kp: 12.00
+Setpoint: 19.00
+Última temperatura: 14.19
+Último tempo: 31.76
+Último PWM: 102.25
+Sucesso: Não
+Contador de dados: 3
+Kp: 12.00
+Setpoint: 19.00
+Última temperatura: 14.19
+Último tempo: 42.39
+Último PWM: 102.25
+Sucesso: Não
+Contador de dados: 4
+Kp: 12.00
+Setpoint: 19.00
+Última temperatura: 14.19
+Último tempo: 53.02
+Último PWM: 102.25
+Sucesso: Não
+Contador de dados: 5
+Kp: 5.00
+Setpoint: 16.00
+Última temperatura: 14.00
+Último tempo: 10.51
+Último PWM: 150.00
+Sucesso: Não
+Contador de dados: 1
+Kp: 5.00
+Setpoint: 16.00
+Última temperatura: 12.94
+Último tempo: 21.13
+Último PWM: 144.69
+Sucesso: Não
+Contador de dados: 2
+Kp: 5.00
+Setpoint: 16.00
+Última temperatura: 12.19
+Último tempo: 31.76
+Último PWM: 140.94
+Sucesso: Não
+Contador de dados: 3
+                                                                p: 5.00
+Setpoint: 16.00
+Última temperatura: 12.13
+Último tempo: 42.39
+Último PWM: 140.62
+Sucesso: Não
+Contador de dados: 4
+Kp: 5.00
+Setpoint: 16.00
+Última temperatura: 12.06
+Último tempo: 53.02
+Último PWM: 140.31
+Sucesso: Não
+Contador de dados: 5
+Kp: 9.00
+Setpoint: 21.00
+Última temperatura: 12.13
+Último tempo: 10.51
+Último PWM: 95.00
+Sucesso: Não
+Contador de dados: 1
+Kp: 9.00
+Setpoint: 21.00
+Última temperatura: 12.75
+Último tempo: 21.13
+Último PWM: 95.00
+Sucesso: Não
+Contador de dados: 2
+Kp: 9.00
+Setpoint: 21.00
+Última temperatura: 13.75
+Último tempo: 31.76
+Último PWM: 95.00
+Sucesso: Não
+Contador de dados: 3
+Kp: 9.00
+Setpoint: 21.00
+Última temperatura: 14.00
+Último tempo: 42.39
+Último PWM: 97.00
+Sucesso: Não
+Contador de dados: 4
+                                                                p: 9.00
+Setpoint: 21.00
+Última temperatura: 14.06
+Último tempo: 53.02
+Último PWM: 97.56
+Sucesso: Não
+Contador de dados: 5
+Kp: 9.00
+Setpoint: 21.00
+Última temperatura: 13.63
+Último tempo: 10.51
+Último PWM: 95.00
+Sucesso: Não
+Contador de dados: 6
+Kp: 7.00
+Setpoint: 19.00
+Última temperatura: 13.50
+Último tempo: 10.51
+Último PWM: 121.50
+Sucesso: Não
+Contador de dados: 1
+Kp: 7.00
+Setpoint: 19.00
+Última temperatura: 13.00
+Último tempo: 21.13
+Último PWM: 118.00
+Sucesso: Não
+Contador de dados: 2
+Kp: 7.00
+Setpoint: 19.00
+Última temperatura: 12.81
+Último tempo: 31.76
+Último PWM: 116.69
+Sucesso: Não
+Contador de dados: 3
+Kp: 7.00
+Setpoint: 19.00
+Última temperatura: 13.06
+Último tempo: 42.39
+Último PWM: 118.44
+Sucesso: Não
+Contador de dados: 4
+                                                                p: 7.00
+Setpoint: 19.00
+Última temperatura: 14.38
+Último tempo: 53.02
+Último PWM: 127.62
+Sucesso: Não
+Contador de dados: 5
+Kp: 11.00
+Setpoint: 19.00
+Última temperatura: 19.06
+Último tempo: 10.50
+Último PWM: 160.00
+Sucesso: Não
+Contador de dados: 1
+Kp: 14.00
+Setpoint: 24.00
+Última temperatura: 23.44
+Último tempo: 10.50
+Último PWM: 152.12
+Sucesso: Não
+Contador de dados: 1
+Kp: 14.00
+Setpoint: 24.00
+Última temperatura: 25.44
+Último tempo: 10.50
+Último PWM: 160.00
+Sucesso: Não
+Contador de dados: 2
+Kp: 14.00
+Setpoint: 24.00
+Última temperatura: 27.19
+Último tempo: 10.50
+Último PWM: 160.00
+Sucesso: Não
+Contador de dados: 3
+Kp: 14.00
+Setpoint: 24.00
+Última temperatura: 28.12
+Último tempo: 21.13
+Último PWM: 160.00
+Sucesso: Não
+Contador de dados: 4
+Kp: 14.00
+Setpoint: 24.00
+Última temperatura: 28.94
+Último tempo: 10.50
+Último PWM: 160.00
+Sucesso: Não
+Contador de dados: 5
+Kp: 14.00
+Setpoint: 24.00
+Última temperatura: 22.44
+Último tempo: 21.13
+Último PWM: 138.12
+Sucesso: Não
+Contador de dados: 6
+Kp: 8.00
+Setpoint: 20.00
+Última temperatura: 13.25
+Último tempo: 10.51
+Último PWM: 106.00
+Sucesso: Não
+Contador de dados: 1
+Kp: 8.00
+Setpoint: 20.00
+Última temperatura: 13.31
+Último tempo: 21.13
+Último PWM: 106.50
+Sucesso: Não
+Contador de dados: 2
+Kp: 8.00
+Setpoint: 20.00
+Última temperatura: 13.88
+Último tempo: 31.76
+Último PWM: 111.00
+Sucesso: Não
+Contador de dados: 3
+Kp: 8.00
+Setpoint: 20.00
+Última temperatura: 14.31
+Último tempo: 42.39
+Último PWM: 114.50
+Sucesso: Não
+Contador de dados: 4
+Kp: 8.00
+Setpoint: 20.00
+Última temperatura: 14.88
+Último tempo: 53.02
+Último PWM: 119.00
+Sucesso: Não
+Contador de dados: 5
